@@ -1,0 +1,4 @@
+,cv_auc_mean,cv_auc_std,test_auc,precision,recall,f1
+Logistic Regression,0.846,0.0124,0.8415,0.504,0.783,0.614
+Random Forest,0.8453,0.0098,0.8408,0.538,0.781,0.637
+XGBoost,0.8463,0.0114,0.8464,0.52,0.786,0.626
